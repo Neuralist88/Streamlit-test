@@ -78,4 +78,3 @@ urllib3==2.2.2
 watchdog==4.0.1
 wcwidth==0.2.13
 webencodings==0.5.1
-yanked==1.4.2
